@@ -2,6 +2,9 @@
 
 This work was developed along with [Leonardo León](https://github.com/leo2105), [Renato Castro](https://github.com/renatocastro33) , Jose Navio and Marco Capcha.
 
+Car plate detections to track enter and exits of cars in garages [Link](https://fmorenovr.github.io/documents/papers/book_chapters/2018_SIMBIG.pdf).
+
+
 ### Citation
 
 ```
@@ -15,3 +18,6 @@ This work was developed along with [Leonardo León](https://github.com/leo2105),
   pages={174--181},
 }
 ```
+
+# Contact us  
+For any issue please kindly email to `felipe [dot] moreno [at] fgv [dot] br`
