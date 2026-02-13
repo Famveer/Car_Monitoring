@@ -1,11 +1,11 @@
-## Vehicles Monitoring System by Mini-Car
+# Vehicles Monitoring System by Mini-Car
 
 This work was developed along with [Leonardo León](https://github.com/leo2105), [Renato Castro](https://github.com/renatocastro33) , Jose Navio and Marco Capcha.
 
 Car plate detections to track enter and exits of cars in garages [Paper](https://fmorenovr.github.io/documents/papers/book_chapters/2018_SIMBIG.pdf).
 
 
-### Citation
+# Citation
 
 ```
 @inproceedings{leon2018car,
